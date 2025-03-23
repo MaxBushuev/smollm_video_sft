@@ -1,0 +1,10 @@
+transformers git+https://github.com/huggingface/transformers.git@c9d1e5238a752813ba91a8751a638a09b5efbb73
+torch==2.6.0
+torchvision==0.21.0
+peft==0.15.0
+datasets==3.4.1
+pillow==11.1.0
+huggingface-hub==0.29.3
+accelerate==1.5.2
+decord==0.6.0
+trl==0.15.2
